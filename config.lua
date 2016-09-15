@@ -1,9 +1,9 @@
 return {
-	bot_api_key = '199042636:AAG7BrFZTwgO87myNvd3q0zEdGHV3A1pJ9E',
+	bot_api_key = 'AAG7BrFZTwgO87myNvd3q0zEdGHV3A1pJ9E',
 	version = '4.1.2',
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
-	superadmins = {199042636, 199042636},
+	superadmins = {199042686, 199042636},
 	log_chat = -1001057801239,
 	log_admin = 199042636,
 	bot_settings = {
