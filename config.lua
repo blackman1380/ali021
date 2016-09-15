@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '199042636:AAG7BrFZTwgO87myNvd3q0zEdGHV3A1pJ9E'
+	bot_api_key = '199042636:AAG7BrFZTwgO87myNvd3q0zEdGHV3A1pJ9E,'
 	version = '4.1.2',
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
