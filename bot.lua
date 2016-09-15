@@ -1,6 +1,7 @@
 HTTP = require('socket.http')
 HTTPS = require('ssl.https')
 URL = require('socket.url')
+JSON = require('dkjson')
 redis = require('redis')
 clr = require 'term.colors'
 db = Redis.connect('127.0.0.1', 6379)
